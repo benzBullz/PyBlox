@@ -2,6 +2,6 @@
 A Roblox tool made with Roblopy.
 
 Requirements:
-roblopy
-termcolor
-os
+roblopy,
+termcolor,
+os.

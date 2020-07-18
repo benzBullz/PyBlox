@@ -17,8 +17,7 @@ logo1=colored("""
 ┃┏━━┛┗┓┏┛┃┏━┓┃┃╋┏┫┃╋┃┃┏┛┗┓
 ┃┃╋╋╋╋┃┃╋┃┗━┛┃┗━┛┃┗━┛┣┛┏┓┗┓
 ┗┛╋╋╋╋┗┛╋┗━━━┻━━━┻━━━┻━┛┗━┛
-      Developed By B.P
- (Missing commands: Errors)""", "red")
+      Developed By B.P""", "red")
 print(logo1)
 
 print(colored(" O P T I O N S","white"))
